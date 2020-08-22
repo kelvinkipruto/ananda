@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20.833px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Arial;
+      }
+
+      .cls-2 {
+        font-size: 12.5px;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <text id="Ananda_Marga_Mission_" data-name="Ananda Marga Mission " class="cls-1" x="12.583" y="25.042">Ananda Marga Mission</text>
+    <text id="service_to_humanity_is_service_to_God_ss" data-name="service to humanity is service to God ss" class="cls-2" x="26.583" y="48.375">service to humanity is service to God</text>
+  </g>
+</svg>

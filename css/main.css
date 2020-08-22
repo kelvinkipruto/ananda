@@ -2062,6 +2062,7 @@ h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
+  background: rgba(247, 93, 4, 0.938);
 }
 
 #header hr {
@@ -2078,6 +2079,10 @@ h6 {
 #header.header-scrolled {
   background: rgba(247, 93, 4, 0.938);
   transition: all 0.5s;
+}
+
+#header.header-scrolled .nav-menu a {
+  color: #fff;
 }
 
 @media (max-width: 673px) {
